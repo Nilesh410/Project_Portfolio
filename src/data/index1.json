@@ -1,0 +1,77 @@
+{
+    "skills":[
+        {
+            "id":"1",
+            "src":"./img/product-chain-1.png",
+            "title":"Front-End",
+            "description":"Developed a web page using HTML, CSS, JAVA Script and React Framework"
+        },
+        {
+            "id":"2",
+            "src":"./img/tag-1.png",
+            "title":"Back-End",
+            "description":"Handel the back side data using Node JS and MongoDB"
+        },
+        {
+            "id":"3",
+            "src":"./img/feather-pen-2.png",
+            "title":"UI-UX Design",
+            "description":"Dsign the complete reactive web page"
+        },
+        {
+            "id":"4",
+            "src":"./img/feather-pen-1.png",
+            "title":"Portfolio Design",
+            "description":"Design the portfolio web page with skill and reactive"
+        }
+    ],
+    "portfolio":[
+        {
+            "id":"1",
+            "src":"./img/placeholder-image-1.png",
+            "title":"To do APP",
+            "description":"Create a To do App for show the status of the task.",
+            "link":"view in GitHub"
+        },
+        {
+            "id":"2",
+            "src":"./img/placeholder-image-2.png",
+            "title":"Counter App",
+            "description":"Show the counter value of the render of the page.",
+            "link":"view in GitHub"
+        },
+        {
+            "id":"3",
+            "src":"./img/placeholder-image-2.png",
+            "title":"Portfoilo Design",
+            "description":"Create Reactive Portfolio Webpage using HTML,CSS,JS and React",
+            "link":"view in GitHub"
+        }
+    ],
+    "testimonial":[
+        {
+            "id":"1",
+            "count":"5",
+            "src":"./img/avatar-image.png",
+            "description":"Very good and very reactive project",
+            "author_name":"Sangram More",
+            "author_designation":"PICT"
+        },
+        {
+            "id":"2",
+            "count":"5",
+            "src":"./img/avatar-image-1.png",
+            "description":"Nice Desgining",
+            "author_name":"Rishi Sutar",
+            "author_designation":"PICT"
+        },
+        {
+            "id":"3",
+            "count":"5",
+            "src":"./img/avatar-image-2.png",
+            "description":"Overall project was good and attractive",
+            "author_name":"Nilesh Patil",
+            "author_designation":"3ri Tech"
+        }
+    ]
+}
